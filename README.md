@@ -1,6 +1,18 @@
-# Welcome to GitHub Desktop!
+# 👋 Hi, I'm Shiva Verma
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+🌱 BCA 1st Year Student
+💻 Learning C, C++, HTML, CSS, JavaScript  
+⚡ I love coding and improving my skills  
+🎯 Goal: Become a good Software Developer
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
-shiva verma nice work
+## 🔧 Skills  
+- C Programming  
+- C++  
+- HTML + CSS  
+- Basics of Git & GitHub  
+
+## 📈 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShivaVerma&show_icons=true)
+
+## 📫 6306428989  
+📩 Email: shivaverma1792006@gmail.com
