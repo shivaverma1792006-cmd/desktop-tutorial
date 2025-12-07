@@ -12,7 +12,7 @@
 - Basics of Git & GitHub  
 
 ## 📈 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShivaVerma&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivaverma&show_icons=true)
 
 ## 📫 6306428989  
 📩 Email: shivaverma1792006@gmail.com
