@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Shiva Verma
 
-🌱 BCA 1st Year Student
+🌱 BCA 2nd Year Student
 💻 Learning C, C++, HTML, CSS, JavaScript  
 ⚡ I love coding and improving my skills  
 🎯 Goal: Become a good Software Developer
